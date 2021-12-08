@@ -1,13 +1,13 @@
-# E-Clinic App
+# DIAGNO+ App
 
 ## Description:
 This is Patient and Doctor chat app which contain following features:
 
-    1. Doctor(Contact info mandatory with specifications) and Patient login 
-    3. Appointment fixing option
-    2. Doctor and Patient Chat option    
-    4. Video calling option 
-    5. Links of other medicine selling apps to provide medicine to user
+    1. User login using Firebase
+    3. Checking for appointments
+    2. Medicine Reminder   
+    4. News from the medical world
+    
 
 
 |Team Name|   Hackstreet Boyz     |
