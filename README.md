@@ -1,7 +1,7 @@
 # DIAGNO+ App
 
 ## Description:
-This is Patient and Doctor chat app which contain following features:
+This is diagnosis app which contain following features:
 
     1. User login using Firebase
     3. Checking for appointments
@@ -12,7 +12,7 @@ This is Patient and Doctor chat app which contain following features:
 
 |Team Name|   Hackstreet Boyz     |
 |---------| ---------------     |
-|Team Leader|   Soham Chaudhari     |
-|Member 1|   Ritish Zalke        |
-|Member 2|  Chaitanya Deshpande | 
-|Member 3|   Nirbhay Nikam       |
+|Member 1|   Soham Chaudhari     |
+|Member 2|   Ritish Zalke        |
+|Member 3|  Chaitanya Deshpande | 
+|Member 4|   Nirbhay Nikam       |
