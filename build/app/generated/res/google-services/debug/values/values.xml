@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">431046018061-leue97et94otke596ufvugko954pq088.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">431046018061</string>
+    <string name="google_api_key" translatable="false">AIzaSyDCPSMDNqJFYJYoA3JgHGhvptbDUN1qI7I</string>
+    <string name="google_app_id" translatable="false">1:431046018061:android:c98f95e33e414521030144</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDCPSMDNqJFYJYoA3JgHGhvptbDUN1qI7I</string>
+    <string name="google_storage_bucket" translatable="false">diagno-f5263.appspot.com</string>
+    <string name="project_id" translatable="false">diagno-f5263</string>
+</resources>
