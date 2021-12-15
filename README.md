@@ -16,3 +16,10 @@ This is diagnosis app which contain following features:
 |Member 2|   Ritish Zalke        |
 |Member 3|  Chaitanya Deshpande | 
 |Member 4|   Nirbhay Nikam       |
+
+|Mentors|
+|  |
+|  |
+|  |
+|  |
+
