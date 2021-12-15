@@ -18,6 +18,7 @@ This is diagnosis app which contain following features:
 |Member 4|   Nirbhay Nikam       |
 
 |Mentors|
+|-------|
 |Darsh Bavishi |
 |Dhruvin Gandhi |
 |Bhavya Mehta |
