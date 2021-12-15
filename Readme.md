@@ -69,7 +69,6 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 - [x] Sign up
 - [x] Booking Appointment
 - [x] Medical News
-- [x] Adding and deleting doctors 
 - [x] Profile and log out
 - [ ] Medicine Reminder
 - [ ] Generating Booking Receipt
