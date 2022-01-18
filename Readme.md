@@ -28,7 +28,7 @@ chaitanyad192002@gmail.com
 
 [Bhavya Mehta](https://github.com/bhavya092)
 
-[Chinmay Janwalkar](github.com/chinmayj24)
+[Chinmay Janwalkar](https://github.com/chinmayj24)
 
 ## Description
 
