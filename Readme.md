@@ -71,7 +71,7 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 - [x] Medical News
 - [x] Profile and log out
 - [ ] Medicine Reminder
-- [ ] Generating Booking Receipt
+- [x] Generating Booking Receipt
 
 
 ## Usage:
