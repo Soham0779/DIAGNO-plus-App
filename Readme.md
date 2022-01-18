@@ -84,10 +84,11 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 
 
 ## Future Scope
-1. Add search bar
-2. Add Symptom's checker
-3. Add booking prescription
-4. Chat with doctors
+1. Add search bar.
+2. Add Symptom's checker.
+3. Add booking prescription.
+4. Chat with doctors.
+5. Medicine reminder.
 
 
 
